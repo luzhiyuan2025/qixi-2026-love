@@ -43,7 +43,7 @@
   bottom: 0;
   margin: 0 auto;
   width: 60%;
-  height: 90%;
+  height: 98%;
   left: 0;
   right: 0;
   transition: all 1s ease-in-out;
@@ -64,9 +64,7 @@
 .card div {
   display: flex;
   justify-content: center;
-  align-items: center;
-  margin-top: 24px;
-  padding: 0 16px;
+  padding:40px 16px;
   flex-direction: column;
 }
 .card div p {
