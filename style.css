@@ -64,7 +64,7 @@
 .card div {
   display: flex;
   justify-content: flex-start;
-  padding:50px 16px;
+  padding:20px 16px;
   flex-direction: column;
 }
 .card div p {
