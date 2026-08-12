@@ -63,8 +63,8 @@
 }
 .card div {
   display: flex;
-  justify-content: center;
-  padding:40px 16px;
+  justify-content: flex-start;
+  padding:50px 16px;
   flex-direction: column;
 }
 .card div p {
