@@ -69,7 +69,7 @@
 }
 .card div p {
   margin: 0;
-  font-size: 12px;
+  font-size: 10px;
   line-height: 24px;
 }
 .card > div > p:first-child {
